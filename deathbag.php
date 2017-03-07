@@ -35,4 +35,4 @@ for ( $i = 0; $i < 10; $i++)
 
    $result = "STONES PULLED: \n\tBlack: " . (3 - $black_stones) . "\n\tRed: " . (10 - $red_stones) . "\n\tWhite: " . (20 - $white_stones);
    echo $result;
-?>
+
