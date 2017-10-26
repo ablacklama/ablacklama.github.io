@@ -108,13 +108,13 @@ body.page-template-page-fullsingle-me {
   font-size: 45px;
   line-height: 60px;
   letter-spacing: -0.5px;
-  color: #999999;
+  color: #000000;
   background-image: url("../../images/background.jpg");
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #999999; }
+    color: #000000; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
@@ -188,10 +188,10 @@ body.page-template-page-fullsingle-me {
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: #5e8fc4;
     transition: 1s; }
     .bio a:hover {
-      color: #FFFFFF;
+      color: #4e5f72;
       transition: 0.1s; }
 
 .network {
@@ -227,10 +227,10 @@ body.page-template-page-fullsingle-me {
         .network ul li a .svg-icon path,
         .network ul li a .svg-icon polygon,
         .network ul li a .svg-icon rect {
-          fill: #999999;
+          fill: #000000;
           transition: 1s; }
         .network ul li a .svg-icon circle {
-          stroke: #999999;
+          stroke: #000000;
           stroke-width: 1; }
       .network ul li a:hover .svg-icon path,
       .network ul li a:hover .svg-icon polygon,
@@ -246,7 +246,7 @@ body.page-template-page-fullsingle-me {
     -webkit-animation: fadein 8s;
             animation: fadein 8s; }
     .network p.credit a {
-      color: #999999; }
+      color: #000000; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
