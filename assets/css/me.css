@@ -182,8 +182,8 @@ body.page-template-page-fullsingle-me {
           justify-content: center;
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
-  letter-spacing: -1px;
-  max-width: 66%; }
+  letter-spacing: -2px;
+  max-width: 64%; }
   @media (max-width: 800px) {
     .bio {
       max-width: none; } }
